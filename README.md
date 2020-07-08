@@ -1,3 +1,4 @@
+## ( deprecated: last version was 'release-v2.3.0' )
 # BLE Examples
 
 This application group demonstrates BLE protocols and functionality. Applications included are:
